@@ -1,0 +1,5 @@
+Model\Inputter.class
+controller\StudentList.class
+view\Menu.class
+view\StudentManager.class
+Model\Student.class

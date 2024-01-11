@@ -1,0 +1,1 @@
+Vaccine{code=2, name=abcd, quantity=34, expirationDate=Mon Oct 22 00:00:00 ICT 3, price=2342.0, lastInjectedDate=Tue Nov 14 00:00:00 ICT 11111}
